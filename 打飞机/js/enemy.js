@@ -16,6 +16,9 @@ function enemy(){
 		this.ele.style.left=x+"px"
 		this.ele.style.top = "0px"
 		
+		console.log(123123123);
+		
+		
 		return this;
 	}
 	//敌军飞机动
