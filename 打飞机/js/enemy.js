@@ -17,7 +17,7 @@ function enemy(){
 		this.ele.style.top = "0px"
 		
 		console.log(123123123);
-		
+		console.log(123123123);
 		
 		return this;
 	}
